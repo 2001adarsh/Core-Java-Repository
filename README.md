@@ -11,7 +11,7 @@ You will find lots of sample code demonstrating almost every language and librar
 
 ### Task Lists:
 - [x] ArrayLists
-- [ ] Enumerations
+- [x] Enumerations
 - [ ] Exception Handling
 - [ ] Inheritance
 - [ ] Inner Classes.
