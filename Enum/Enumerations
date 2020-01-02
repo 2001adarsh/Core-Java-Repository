@@ -1,0 +1,24 @@
+Enumerations was added to Java language in JDK5. Enumeration means a list of named constant. In Java, enumeration defines a class type.
+ An Enumeration can have constructors, methods and instance variables. It is created using enum keyword. Each enumeration constant is public, 
+ static and final by default. Even though enumeration defines a class type and have constructors, you do not instantiate an enum using new. 
+ Enumeration variables are used and declared in much a same way as you do a primitive variable.
+ 
+    Variadic functions or Varags(variable arguments):
+   	written with ellipses ie, ...(three dots after one fixed arguments).
+   	Eg. printf(), cout
+   Implementation of print statements:
+   	public class printstream
+   		{
+   			public printstream printf(String fmt, ... args) { return format(fmt,args); }
+   		}
+   
+   Enumeration:
+   java.lang.Enum<E> 
+   
+   	static Enum valueof(Class enumClass, String name) - returns enum constant of given class with given name.
+   	String toString() - return the name of this enum constant
+   	int ordinal() - returns the zero-based position of this enumerated const. in the enum decl.
+   	int compareTo(E other) - returns a negative integer if this enum constant comes before other,
+   	zero if this==other, and positive  int otherwise.
+    
+   @author Adarsh
