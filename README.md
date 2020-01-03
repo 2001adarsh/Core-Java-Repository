@@ -13,5 +13,5 @@ You will find lots of sample code demonstrating almost every language and librar
 - [x] ArrayLists
 - [x] Enumerations
 - [ ] Exception Handling
-- [ ] Inheritance
+- [x] Inheritance
 - [ ] Inner Classes.
