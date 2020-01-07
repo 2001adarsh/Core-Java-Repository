@@ -16,3 +16,4 @@ You will find lots of sample code demonstrating almost every language and librar
 - [x] Inheritance
 - [x] Inner Classes.
 - [x] Interfaces
+- [x] Lambda Expressions
