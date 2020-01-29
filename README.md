@@ -19,4 +19,5 @@ You will find lots of sample code demonstrating almost every language and librar
 - [x] Lambda Expressions
 - [x] Array List
 - [x] Proxy
-- [ ] StringHash
+- [x] StringHash
+- [x] Collections
